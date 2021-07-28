@@ -7,9 +7,9 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/ThorstenHans/bridge-demo/pkg/handlers"
-	"github.com/ThorstenHans/bridge-demo/pkg/middlewares"
-	"github.com/ThorstenHans/bridge-demo/pkg/store"
+	"github.com/ThorstenHans/bridge-to-kubernetes-demo/pkg/handlers"
+	"github.com/ThorstenHans/bridge-to-kubernetes-demo/pkg/middlewares"
+	"github.com/ThorstenHans/bridge-to-kubernetes-demo/pkg/store"
 )
 
 const DefaultPort int = 8080

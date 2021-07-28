@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/ThorstenHans/bridge-demo/pkg/store"
+	"github.com/ThorstenHans/bridge-to-kubernetes-demo/pkg/store"
 )
 
 type Products struct {
